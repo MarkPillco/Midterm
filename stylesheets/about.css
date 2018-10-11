@@ -1,0 +1,41 @@
+img{
+	margin: 115px;
+	margin-top: 0px;
+	width: 358px;
+	height: 504px;
+	display: inline-block;
+	float: left;
+	margin-right: 30px;
+	
+
+	
+}
+
+
+p {
+	width: 905px;
+	height: 204px;
+	margin:0 auto;
+
+	color: white;
+	
+
+}
+
+b{
+	font-size: 18px;
+}
+
+.Name {
+	background-color: #033660;
+	width: 358px;
+	height: 40px;
+	text-align: center;
+	margin-left: 115px;
+	margin-bottom: 20px;
+
+}
+
+h2{
+color: #FFB6C1;
+}

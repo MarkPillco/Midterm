@@ -1,0 +1,29 @@
+.ParentDiv{
+	width:910px;
+	height: 910px;
+	background-color: #033660;
+	margin: 0 auto;	
+	margin-top: 30px;
+}
+
+img{
+	filter: blur(4px);
+	opacity: .75;
+	transition: .5s ease;
+	width: 300px;
+	height: 300px;
+
+}
+
+img:hover{
+	filter: blur(0px);
+	cursor: pointer;
+}
+
+h2{
+	margin: 0 auto;
+	margin-top: 20px;
+	color: #FFB6C1;
+	text-align: center;
+	font-size: 24px;
+}

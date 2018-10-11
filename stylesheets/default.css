@@ -1,0 +1,49 @@
+body{
+background-color: #033660;
+font-family: 'Roboto', sans-serif;
+ 
+}
+
+h1{
+     width: 100%;
+     text-align: center;
+    margin: auto;    
+    color: #FFB6C1;
+    font-size: 50px;
+    
+    
+
+}
+
+.Header >a {
+    background-color: #FFB6C1;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 0 auto;
+	cursor: pointer;
+    margin-top: 30px; 
+    display: inline-block;
+    width: 18.5%;
+    text-align: center;
+   
+
+
+}
+
+/*a{
+    width: 100%;
+}*/
+
+#OneButton{
+    margin-left: 128px;
+
+}
+
+
+
+
+
