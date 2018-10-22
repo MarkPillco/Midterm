@@ -1,6 +1,7 @@
 img{
 	margin: 115px;
 	margin-top: 0px;
+
 	width: 358px;
 	height: 504px;
 	display: inline-block;
@@ -16,6 +17,7 @@ p {
 	width: 905px;
 	height: 204px;
 	margin:0 auto;
+	margin-top: 10px;
 
 	color: white;
 	
@@ -26,16 +28,25 @@ b{
 	font-size: 18px;
 }
 
+
+h2{
+color: #FFB6C1;
+}
+
 .Name {
 	background-color: #033660;
 	width: 358px;
 	height: 40px;
 	text-align: center;
 	margin-left: 115px;
-	margin-bottom: 20px;
+	margin-bottom: 40px;
+	margin-top: 20px;
+
 
 }
 
-h2{
-color: #FFB6C1;
+#myPara{
+	position: absolute;
+	right: 47.5%;
 }
+
